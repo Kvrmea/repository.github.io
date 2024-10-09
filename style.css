@@ -12,6 +12,10 @@ body {
     color: aqua;
 }
 
+img {
+    height: 200px;
+}
+
 #couleur {
     color: green;
 }
