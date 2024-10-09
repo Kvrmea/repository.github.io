@@ -1,0 +1,21 @@
+.titre {
+    color: aqua;
+    text-align: center;
+    
+}
+
+body {
+    background-color: black;
+}
+
+.secondTitre {
+    color: aqua;
+}
+
+#couleur {
+    color: green;
+}
+
+#liste {
+    color: green;
+}
